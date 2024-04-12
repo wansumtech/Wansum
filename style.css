@@ -1,0 +1,52 @@
+.logo{
+    width: 200px;
+    border-radius: 10px;
+    border: solid; size: 20px; color: rgb(23, 139, 0);
+    padding: 20px;
+    background-color: transparent
+
+}
+
+.body{
+    background-image: url(./images/walk.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+.maindiv{
+    width: 100%;
+    margin: auto;
+
+}
+.mainh1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+    color: whitesmoke;
+    font-style: normal;
+    padding: 10px;
+}
+.emailbutton{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: whitesmoke;
+    font-style: normal;
+    background-color: black;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;
+
+}
+.seconddiv{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: whitesmoke;
+    font-style: normal;
+    font-weight: bold;
+    text-transform: capitalize;
+    background-color: rgba(201, 17, 17, 0.164);
+    border-radius: 20px;
+    padding: 10px;
+
+
+}
